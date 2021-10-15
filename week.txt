@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 week và main
+=======
+week mà thôi
+>>>>>>> week
